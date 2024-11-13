@@ -14,6 +14,15 @@ A Next.js 15 platform where entrepreneurs can submit their startup ideas for vir
 -   **Search Functionality**: Efficient pitch loading and viewing with search capabilities.
 -   **Minimalistic Design**: Clean and essential UI for a great user experience.
 
+## Tech Stack
+
+-   React 19
+-   Next.js 15
+-   Sanity
+-   TailwindCSS
+-   ShadCN
+-   TypeScript
+
 ## Screenshots
 
 ![Blog Homepage](/public/yc-directory.png)
